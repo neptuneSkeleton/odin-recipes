@@ -1,4 +1,42 @@
 body {
-    background-color: rgb(252, 228, 198);
+    background-color: rgb(255, 245, 190);
+    
 }
 
+h1{
+    font-size: 64px;
+    text-align: center;
+}
+
+.ingredients {
+    background-color: rgba(248, 248, 248, 0.493);
+
+}
+
+.heading {
+    font-size: 25px;
+}
+
+.ingredients.list {
+    font-size: 15px;
+    width: 400px;
+}
+
+.steps {
+    background-color: rgba(248, 248, 248, 0.493);
+
+}
+
+.steps.list{
+    font-size: 15px; 
+    width: 700px;
+}
+
+.quote {
+    font-weight: bolder;
+}
+
+.food-feature {
+    height: 300px;
+    width: auto;
+}
